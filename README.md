@@ -11,7 +11,7 @@
       margin: 0;
     }
     .wish {
-      font-size: 2.5em;
+      font-size: 1.8em;
       margin-top: 100px;
       color: #ff4081;
       letter-spacing: 2px;
@@ -67,7 +67,7 @@
       100% { bottom: 100vh; opacity: 0;}
     }
     .msg {
-      font-size: 1.5em;
+      font-size: 1em;
       color: black;
       margin-top: 40px;
       animation: fadeIn 2s 1.5s both;
